@@ -1,27 +1,25 @@
-# Домашнє завдання №6. Таблиця Мондріана
+# Mondrian table
 
-**[Результат домашнього завдання](https://andrusi4ka.github.io/Fullstack-home-work-6/)**
+**[Result](https://andrusi4ka.github.io/Fullstack-home-work-6/)**
 
-Завдання полягає у створенні таблиці, натхненної стилем картин П'єта Мондріана. Наша задача - відтворити макет, що візуально нагадує його роботи. Необов'язково досягати ідеального піксельного співпадіння з оригіналом, але важливо дотримуватися основних принципів його дизайну.
+The task is to create a table inspired by the style of Piet Mondrian’s paintings. Our goal is to reproduce a layout that visually resembles his works. It is not necessary to achieve perfect pixel accuracy with the originals, but it is important to follow the main principles of his design.
 
 ![Image!](/image/1.png)
 
-### Особливі вимоги до завдання:
+### Special requirements for the assignment:
 
-**- Мінімалізм у структурі:**
+**- Structural minimalism:**
 
-У створеній таблиці використано лише необхідну кількість стовпців і рядків. Зайві елементи повністю відсутні, структура таблиці є максимально простою та ефективною.
+In the created table, only the necessary number of columns and rows are used. Superfluous elements are completely absent, and the structure of the table is as simple and efficient as possible.
 
-**- Заборона на приховані стовпці та рядки:**
+**- Prohibition of hidden columns and rows:**
 
-У таблиці не використовувалися приховані стовпці чи рядки. Усі елементи таблиці відкрито та прозоро відображені.
+No hidden columns or rows were used in the table. All elements of the table are displayed openly and transparently.
 
-**- Групування комірок:**
+**- Merging cells:**
 
-Комірки були об'єднані там, де це було можливим, для створення більших просторових сегментів. Це забезпечило відповідність стилю Мондріана та дозволило досягти чистої та гармонійної композиції.
+Cells were merged wherever possible to create larger spatial segments. This ensured adherence to the Mondrian style and allowed for a clean and harmonious composition.
 
-**- Увага до деталей:**
+**- Attention to detail:**
 
-У роботі було приділено особливу увагу візуальним елементам макету. Було враховано розмір, пропорції та розташування сегментів для максимально точного відтворення художнього стилю.
-
-**Завдання виконано з урахуванням усіх вимог і з дотриманням технічних правил створення таблиць у HTML.**
+Special attention was given to the visual elements of the layout. The size, proportions, and placement of the segments were considered to achieve the most accurate reproduction of the artistic style.
