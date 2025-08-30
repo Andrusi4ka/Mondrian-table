@@ -1,6 +1,6 @@
 # Mondrian table
 
-**[Result](https://andrusi4ka.github.io/Fullstack-home-work-6/)**
+**[Result](https://andrusi4ka.github.io/Mondrian-table/)**
 
 The task is to create a table inspired by the style of Piet Mondrian’s paintings. Our goal is to reproduce a layout that visually resembles his works. It is not necessary to achieve perfect pixel accuracy with the originals, but it is important to follow the main principles of his design.
 
